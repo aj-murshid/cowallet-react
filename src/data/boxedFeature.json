@@ -1,0 +1,29 @@
+{
+  "background": "images/section-bg1.png",
+  "features": [
+    {
+      "key": 1,
+      "text": "Manage all projects in one place",
+      "image": "/images/ft-projectManagement.png",
+      "alt": "featureImage"
+    },
+    {
+      "key": 2,
+      "text": "Add expenses and income",
+      "image": "/images/ft-expenseAndIncome.png",
+      "alt": "featureImage"
+    },
+    {
+      "key": 3,
+      "text": "Know your workers and party Details",
+      "image": "/images/ft-workerAndParty.png",
+      "alt": "featureImage"
+    },
+    {
+      "key": 4,
+      "text": "Get your reports in seconds",
+      "image": "/images/ft-getReports.png",
+      "alt": "featureImage"
+    }
+  ]
+}

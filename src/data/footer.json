@@ -1,0 +1,46 @@
+{
+  "backgroundImage": "/images/footer-bg.png",
+  "company": [
+    { "key": 1, "item": "Home", "href": "/" },
+    { "key": 2, "item": "About Us", "href": "/about" },
+    { "key": 3, "item": "Careers", "href": "/careers" },
+    { "key": 4, "item": "Contact", "href": "/contact" }
+  ],
+
+  "contact": [
+    { "key": 1, "item": "+91 79077 07474", "href": "tel:+917907707474" },
+    {
+      "key": 2,
+      "item": "ajfuturedevelopment@gmail.com",
+      "href": "mailto:ajfuturedevelopment@gmail.com",
+      "target": "_blank",
+      "rel": "noreferrer"
+    },
+    {
+      "key": 3,
+      "item": "ajfuture.in",
+      "href": "https://ajfuture.in",
+      "target": "_blank",
+      "rel": "noreferrer"
+    }
+  ],
+
+  "socials": [
+    {
+      "key": 1,
+      "href": "https://www.instagram.com/contractorwallet/",
+      "className": "dtr-instagram",
+      "target": "_blank",
+      "rel": "noreferrer",
+      "title": "instagram"
+    },
+    {
+      "key": 2,
+      "href": "https://www.facebook.com/profile.php?id=100092007300530",
+      "className": "dtr-facebook",
+      "target": "_blank",
+      "rel": "noreferrer",
+      "title": "facebook"
+    }
+  ]
+}

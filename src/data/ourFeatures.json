@@ -1,0 +1,43 @@
+{
+  "mobile": "/images/mobile-view.png",
+  "leftContents": [
+    {
+      "key": 1,
+      "image": "/images/ft-project.png",
+      "title": "Manage Projects",
+      "text": "Effortlessly oversee and navigate through all your projects in one centralized dashboard."
+    },
+    {
+      "key": 2,
+      "image": "/images/ft-worker.png",
+      "title": "Manage Workers",
+      "text": "Transform Financial Management with Contractor Wallet. Your solution to hassle-free worker finances."
+    },
+    {
+      "key": 3,
+      "image": "/images/ft-tool.png",
+      "title": "Manage Tools",
+      "text": "Instantly locate tools and equipment, eliminating downtime."
+    }
+  ],
+  "rightContents": [
+    {
+      "key": 1,
+      "image": "/images/ft-supervisor.png",
+      "title": "Supervisor Login",
+      "text": "Add expenses on the go, Stay in control by monitoring on-site transactions in real-time."
+    },
+    {
+      "key": 2,
+      "image": "/images/ft-expense.png",
+      "title": "Add Expenses",
+      "text": "Stay on top of costs with instant updates on project-related expenditures."
+    },
+    {
+      "key": 3,
+      "image": "/images/ft-report.png",
+      "title": "Get Reports",
+      "text": "Simplify your workflow - all your reports, just one click away!"
+    }
+  ]
+}

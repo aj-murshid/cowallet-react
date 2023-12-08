@@ -1,0 +1,64 @@
+{
+  "images": [
+    {
+      "key": 1,
+      "image": "/images/dashboard.png",
+      "alt": "tabImage",
+      "className": "tab-pane fade",
+      "id": "features-tab-1",
+      "role": "tabpanel",
+      "ariaLabelledby": "features-tab-1-tab"
+    },
+    {
+      "key": 2,
+      "image": "/images/dashboard.png",
+      "alt": "tabImage",
+      "className": "tab-pane fade show active",
+      "id": "features-tab-2",
+      "role": "tabpanel",
+      "ariaLabelledby": "features-tab-2-tab"
+    },
+    {
+      "key": 3,
+      "image": "/images/dashboard.png",
+      "alt": "tabImage",
+      "className": "tab-pane fade",
+      "id": "features-tab-3",
+      "role": "tabpanel",
+      "ariaLabelledby": "features-tab-3-tab"
+    }
+  ],
+
+  "contents": [
+    {
+      "key": 1,
+      "class": "nav-link",
+      "id": "features-tab-1-tab",
+      "href": "#features-tab-1",
+      "ariaControls": "features-tab-1",
+      "ariaSelected": "false",
+      "title": "Create Your Task",
+      "text": "Effortlessly launch your construction projects with Contractor Wallet. Create project timelines, assign tasks, and set milestones effortlessly. Streamline project initiation with just a few clicks. On-Site Empowerment"
+    },
+    {
+      "key": 2,
+      "class": "nav-link active",
+      "id": "features-tab-2-tab",
+      "href": "#features-tab-2",
+      "ariaControls": "features-tab-2",
+      "ariaSelected": "true",
+      "title": "Build Your Flow",
+      "text": "Grant on-site supervisors direct control from the field. Manage projects, allocate tasks, and monitor real-time progress. Contractor Wallet provides the flexibility to make crucial decisions on the spot, enhancing on-site empowerment. Unified Collaboration"
+    },
+    {
+      "key": 3,
+      "class": "nav-link",
+      "id": "features-tab-3-tab",
+      "href": "#features-tab-3",
+      "ariaControls": "features-tab-3",
+      "ariaSelected": "false",
+      "title": "Manage All Users",
+      "text": "Foster collaboration among site engineers, supervisors, and workers seamlessly. Contractor Wallet enhances communication, facilitates real-time updates, and ensures everyone is on the same page. Streamline project teamwork effortlessly"
+    }
+  ]
+}

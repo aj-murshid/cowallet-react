@@ -1,0 +1,9 @@
+{
+  "logos": [
+    { "key": 1, "image": "/images/client-1.png", "alt": "clientLogo" },
+    { "key": 2, "image": "/images/client-2.png", "alt": "clientLogo" },
+    { "key": 3, "image": "/images/client-3.png", "alt": "clientLogo" },
+    { "key": 4, "image": "/images/client-4.png", "alt": "clientLogo" },
+    { "key": 5, "image": "/images/client-5.png", "alt": "clientLogo" }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "background": "/images/section-bg1.png",
+  "moreFeatures": [
+    {
+      "key": 1,
+      "image": "/images/ft-invoice.png",
+      "text": "GST Invoice",
+      "alt": "moreFeatureImage"
+    },
+    {
+      "key": 2,
+      "image": "/images/ft-deposits.png",
+      "text": "FD & AD PG",
+      "alt": "moreFeatureImage"
+    },
+    {
+      "key": 3,
+      "image": "/images/ft-etender.png",
+      "text": "E Tender Notification",
+      "alt": "moreFeatureImage"
+    },
+    {
+      "key": 4,
+      "image": "/images/ft-notification.png",
+      "text": "Notifications",
+      "alt": "moreFeatureImage"
+    },
+    {
+      "key": 5,
+      "image": "/images/ft-accounts.png",
+      "text": "Account Details & Transactions",
+      "alt": "moreFeatureImage"
+    },
+    {
+      "key": 6,
+      "image": "/images/ft-customer.png",
+      "text": "Customer Details",
+      "alt": "moreFeatureImage"
+    },
+    {
+      "key": 7,
+      "image": "/images/ft-adminstration.png",
+      "text": "Adminstration",
+      "alt": "moreFeatureImage"
+    }
+  ]
+}

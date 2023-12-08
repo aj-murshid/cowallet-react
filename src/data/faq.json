@@ -1,0 +1,49 @@
+{
+  "faq1": [
+    {
+      "key": 1,
+      "question": "What is Contractor Wallet?",
+      "answer": "Contractor Wallet is an innovative construction management software designed to streamline project operations, enhance collaboration, and simplify financial management for construction professionals."
+    },
+    {
+      "key": 2,
+      "question": " How can Contractor Wallet benefit my construction projects?",
+      "answer": "Contractor Wallet empowers you to manage projects, supervise on-site operations, handle expenses, and gain valuable insights through robust reporting tools, ultimately improving efficiency and project success."
+    },
+    {
+      "key": 3,
+      "question": "Is Contractor Wallet easy to set up?",
+      "answer": "Absolutely! Contractor Wallet is designed with user-friendliness in mind. The onboarding process is straightforward, and our support team is always ready to assist you."
+    },
+    {
+      "key": 4,
+      "question": "Are there any hidden fees?",
+      "answer": "No hidden fees. Our pricing is transparent, and you only pay for the features and services you choose."
+    }
+  ],
+
+  "faq2": [
+    {
+      "key": 5,
+      "question": " What training is provided for new users?",
+      "answer": "We offer comprehensive training materials, tutorials, and live support sessions to ensure you and your team are confident and proficient in using Contractor Wallet."
+    },
+    {
+      "key": 6,
+      "question": " How secure is my data with Contractor Wallet?",
+      "answer": "Security is our top priority. Contractor Wallet employs robust encryption measures and follows industry best practices to safeguard your data. We prioritize your privacy and adhere to stringent data protection standards."
+    },
+    {
+      "key": 7,
+      "question": " What is the pricing structure for Contractor Wallet?",
+      "answer": "Our pricing is based on a subscription model. Please visit our Pricing page for detailed information on plans and features."
+    },
+    {
+      "key": 8,
+      "question": " What support options are available?",
+      "answer": " We provide various support channels, including email support, live chat, and a comprehensive knowledge base. Our support team is dedicated to ensuring you have a smooth experience with Contractor Wallet."
+    }
+  ],
+
+  "cardImage": "/images/footer3d.png"
+}
